@@ -437,9 +437,9 @@
 
             if (portadaElement) {
                 if (window.innerWidth <= 768) { // Cambiar el tamaño según sea necesario
-                    portadaElement.style.backgroundImage = "url('images-2/portadaCelular.png')";
+                    portadaElement.style.backgroundImage = "url('images-2/PORTADA_DYNIA_Y_HEINER_vertical_.jpg')";
                 } else {
-                    portadaElement.style.backgroundImage = "url('images-2/imagen_portada.jpg')";
+                    portadaElement.style.backgroundImage = "url('images-2/portada_horizonta_dy_h2.jpg')";
                 }
             }
         }
