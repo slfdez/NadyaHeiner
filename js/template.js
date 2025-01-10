@@ -439,9 +439,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (portadaElement) {
             if (window.innerWidth <= 768) { // Cambiar el tamaño según sea necesario
-                portadaElement.style.backgroundImage = "url('images-2/portvert.jpg')";
+                portadaElement.style.backgroundImage = "url('images-2/portvert2.jpg')";
             } else {
-                portadaElement.style.backgroundImage = "url('images-2/porthor.jpg')";
+                portadaElement.style.backgroundImage = "url('images-2/porthor2.jpg')";
             }
         }
     }
